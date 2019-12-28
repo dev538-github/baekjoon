@@ -2,7 +2,6 @@ package Level05;
 
 import java.io.*;
 import java.util.stream.IntStream;
-
 public class baekjoon_3052 {
     public static void main(String[] args){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

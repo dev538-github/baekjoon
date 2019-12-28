@@ -9,8 +9,6 @@ public class baekjoon_15596 {
         }
         return ans;
     }
-
-
 }
 
 //    정수 N개의 합 제출 언어 제한함수 구현

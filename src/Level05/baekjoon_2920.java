@@ -2,7 +2,6 @@ package Level05;
 
 import java.io.*;
 import java.util.StringTokenizer;
-
 public class baekjoon_2920 {
     public static void main(String[] args){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

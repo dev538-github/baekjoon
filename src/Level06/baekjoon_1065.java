@@ -21,7 +21,6 @@ public class baekjoon_1065 {
             // 100 이상 한수 구하기
             }else{
                 cnt  = 99;
-
                 //한수 구하기
                 for(int i = 1; num >= 99 + i; i++){
 
@@ -33,15 +32,12 @@ public class baekjoon_1065 {
 
                     if(third - second == second - first) cnt++;
                 }
-
             }
-
             bw.write(cnt + "\n");
             bw.flush();
 
         }catch(IOException e){
             e.printStackTrace();
-
         }finally{
             if(br!=null)try{br.close();}catch(IOException e){}
             if(bw!=null)try{bw.close();}catch(IOException e){}

@@ -7,7 +7,6 @@ public class baekjoon_2577 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int array[] = {0,0,0,0,0,0,0,0,0,0};
-
         try{
             int a = Integer.parseInt(br.readLine());
             int b = Integer.parseInt(br.readLine());

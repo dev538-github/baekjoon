@@ -1,7 +1,6 @@
 package Level03;
 
 import java.io.*;
-
 public class baekjoon_2438 {
     public static void main(String[] args){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
